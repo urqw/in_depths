@@ -15,12 +15,12 @@
 			<description>Вы разведчик на службе компании Biznes, Int., которая стремится похитить данные компании Black Sun по исследованиям в области искусственного интеллекта. Вы должны похитить кристалл с данными, который, как стало известно вашему руководству, хранится где-то на подводной базе, и уничтожить главный компьютер...</description>
 		</bibliographic>
 		<contacts>
-			<url>https://urqw.github.io/UrqW/#in_depths</url>
+			<url>https://urqw.github.io/UrqW/?id=in_depths</url>
 			<authoremail>smert_vovka.ru@dkd.lt</authoremail>
 		</contacts>
 		<colophon>
 			<generator>UrqW Game Template</generator>
-			<originated>2025-09-24</originated>
+			<originated>2026-01-09</originated>
 		</colophon>
 	</story>
 </ifindex>
