@@ -4,7 +4,7 @@ Text-based game "In the Depths" (Russian: "В глубине") by VoVka Death (R
 
 The game is in Russian, developed for URQ_DOS, and adapted for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#in_depths).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=in_depths).
 
 The game was first published on April 21, 2002.
 
